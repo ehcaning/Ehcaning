@@ -31,5 +31,5 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <a href="https://www.linkedin.com/in/ehcan//"><img src="https://img.shields.io/badge/-Ehsan%20Seyedi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://ehcan.ir"><img src="https://img.shields.io/badge/-ehcan.ir-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="mailto:hi@ehcan.ir"><img src="https://img.shields.io/badge/-hi@ehcan.ir-black?style=flat&logo=maildotru&logoColor=white"/></a>
+<a href="https://ehcan.me"><img src="https://img.shields.io/badge/-ehcan.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="mailto:hi@ehcan.me"><img src="https://img.shields.io/badge/-hi@ehcan.me-black?style=flat&logo=maildotru&logoColor=white"/></a>
